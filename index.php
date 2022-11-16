@@ -15,7 +15,7 @@
             <a href="">Accueil</a>
             <a href="">Cas cliniques</a>
             <a href="">Articles</a>
-            <a href="">En savoir plus</a>
+            <a href="">Découvrir plus</a>
 
         </nav>
     </header>
